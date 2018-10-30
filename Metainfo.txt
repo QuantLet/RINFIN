@@ -1,0 +1,30 @@
+
+Name of Quantlet:  RINFIN.R
+
+ 
+
+Published in:      "RESIDUAL'S INFLUENCE INDEX (RINFIN), BAD LEVERAGE AND UNMASKING IN HIGH DIMENSIONAL L2-REGRESSION"
+
+  
+
+Description:       "RESIDUAL'S INFLUENCE INDEX (RINFIN), BAD LEVERAGE AND UNMASKING IN HIGH DIMENSIONAL L2-REGRESSION"
+
+ 
+
+Keywords:          "Big Data, Data Science, Influence Function, Leverage, Masking, Residual's Influence Index (RINFIN)"
+
+
+
+See also :         RINFIN
+
+
+
+Author:            Yannis G. Yatracos
+
+  
+
+Submitted:         Tue, Oct 30 2018 by Raphael Reule
+
+  
+
+Datafile:          R Scripts
