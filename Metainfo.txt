@@ -1,5 +1,5 @@
 
-Name of Quantlet:  RINFIN.R
+Name of Quantlet:  RINFIN
 
  
 
